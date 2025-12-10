@@ -2,7 +2,7 @@
   ====================================================
   
   Complete Portal Gun with LED noodles, OLED status display, and authentic sound effects
-  Based on original Portal Gun code with OLED integration
+  based on original Portal Gun code with OLED integration
   - Blue/Red portal mode switching with visual and audio feedback
   - Portal shooting with pulsation effects and firing sounds
   - Auto-switch after shooting (game mechanics)
@@ -30,6 +30,3 @@
   - 0003.mp3 - Red portal firing sound
   - 0004.mp3 - Mode switch beep
   - 0005.mp3 - Power down sound (optional)
-  
-  Author: Portal Gun Project
-  Version: 3.0 (Complete Edition)
